@@ -14,6 +14,9 @@
 Чтобы начать играть необходимо: Открыть терминал. Запустить файл игры.
 Программа написана на языке ruby.
 ```
+$ git clone git@github.com:/AnDrJuX/gallows
+$ cd gallows
+$ bundle install
 $ ruby main.rb
 ```
 Автор: Андрес Петерсон.
